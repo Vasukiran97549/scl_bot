@@ -1,0 +1,185 @@
+version: "3.1"
+
+nlu:
+
+  - intent: greet
+    examples: |
+      - hello
+      - hi
+      - hey
+      - hola 
+
+  - intent: ask_subjects
+    examples: |
+      - What subjects does your website cover
+      - Which subjects are available
+      - Subjects you provide
+      - What are the subjects offered
+      - List of subjects on your website
+      - Subjects covered in your study materials
+      - which all subjects will you offer
+      - which are the subjects
+      - subjects
+      - tell the subjects
+
+  - intent: access_study_materials
+    examples: |
+      - Are the study materials free to access
+      - Can I access study materials for free
+      - Is there a cost to access study materials
+      - Do I need to pay for study materials
+      - Are the resources available without charge
+      - How much do I need to pay for study materials
+      - fee
+      - what is the fee for materials
+      - fee for materials
+      - tell fee
+      - provide fees
+
+  - intent: access_video_lectures
+    examples: |
+      - How can I access video lectures on the website
+      - Where can I find video lectures
+      - Tell me about video lectures.
+      - How do I watch video lessons
+      - Are there video tutorials available
+      - Accessing video content on the site
+      - where are video lectures
+      - are there any video lectures
+      - tell about video lectures
+      - video lectures
+      - where will i find video lecture
+
+  - intent: download_materials
+    examples: |
+      - Can I download study materials for offline use
+      - How do I download resources
+      - Is offline download available
+      - How can I save study materials to my device
+      - Download options for study materials
+      - Save study notes for offline viewing
+      - can i download materials
+
+  - intent: offer_sample_papers
+    examples: |
+      - Do you offer sample papers for exams
+      - Are there practice papers available
+      - Can I get sample test papers
+      - Practice tests for exams
+      - Are mock exams provided
+      - Accessing sample question papers
+      - sample papers
+      - where are sample papers
+      - where will i find the sample papers
+
+  - intent: suitable_for_grade_levels
+    examples: |
+      - Are the study materials suitable for different grade levels
+      - Can students of all grades use the resources
+      - Are the materials tailored for specific grades
+      - Which grade levels do your resources cover
+      - Content for different class levels
+      - Study materials for various grade levels
+      - which grade will you provide materials
+      - which all grades are available here
+      - tell me grades for ehich materials are available
+
+
+  - intent: update_frequency
+    examples: |
+      - How often are the study materials updated
+      - Are the resources regularly updated
+      - How frequently is the content refreshed
+      - When do you update study materials
+      - Updates to the study resources
+      - How current is the study material
+      - when will you update materials
+      
+
+  - intent: offer_quizzes_tests
+    examples: |
+      - Do you offer interactive quizzes or practice tests
+      - Can I take quizzes on your website
+      - Are there self-assessment tests available
+      - Practice tests and quizzes
+      - Quizzes for self-evaluation
+      - Taking practice quizzes on the site
+      - can i take quizzes
+
+  - intent: registration_requirement
+    examples: |
+      - Is registration required to access the study materials
+      - Do I need to create an account
+      - Is signing up mandatory to use the resources
+      - Can I access content without registering
+      - Do I have to enroll to get study materials
+      - Need for account to use study materials
+
+  - intent: contact_customer_support
+    examples: |
+      - How can I get in touch with customer support
+      - What's the way to contact your support team
+      - Where can I find customer service
+      - How do I reach out for assistance
+      - Contact information for help
+      - Getting help from customer support
+
+  - intent: ask_tips_exam_pressure
+    examples: |
+      - How can I deal with exam pressure?
+      - Give me tips to handle stress.
+      - What should I do to manage exam stress?
+      - Help me with exam pressure.
+      - i'm facing exam pressure
+      - how to overcome with exam pressure
+      - i'm facing lots of exam pressure
+      - give solution for my exam pressure
+      - exam pressure
+      - reduce my exam pressure
+      - how can i deal with exam pressure
+
+  - intent: manage_time
+    examples: |
+      - How can I manage my time better while studying?
+      - Tips for effective time management during exams.
+      - Give me strategies to plan my study time.
+      - can you suggest tips for managing my time
+      - how will i manage time
+      - tell about time management
+      - can you tell about managing time for my exams
+      - tell something on managing time
+      - i'm not able to manage my time. help me in that
+      - manage time
+      - manage my time
+    
+ 
+  - intent: deal_with_stress
+    examples: |
+      - How do I seek support during exam time?
+      - Where can I find help for exam-related stress?
+      - Tell me about seeking assistance. 
+      - give any suggestions for managing stress
+      - How can I deal with stress
+      - Give me tips to handle stress during exams.
+      - What should I do to manage stress
+      - Help me with stress.
+      - i'm facing stress
+      - i'm very tensed
+      - how to overcome with stress
+      - i'm facing lots of stress
+      - give solution for my stress
+      - stress
+      - tensed
+      - i am very tensed
+
+  - intent: define_peer_pressure
+    examples: |
+      - What is peer pressure?
+      - Explain peer pressure to me.
+      - Define peer influence.
+      - How can I handle peer pressure?
+      - Tips to deal with peer influence.
+      - What should I do when facing peer pressure?
+      - peer pressure
+
+

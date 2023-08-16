@@ -1,0 +1,51 @@
+version: "3.1"
+
+intents:
+  - greet
+  - ask_subjects
+  - access_study_materials
+  - access_video_lectures
+  - download_materials
+  - offer_sample_papers
+  - suitable_for_grade_levels
+  - update_frequency
+  - offer_quizzes_tests
+  - registration_requirement
+  - contact_customer_support
+  - ask_tips_exam_pressure
+  - manage_time
+  - deal_with_stress
+  - define_peer_pressure
+  - Default_Fallback
+
+responses:
+  utter_greet:
+    - text: "Hi, Thanks for trying our website. How can I help you?"
+
+
+
+actions:
+  - action_greet 
+  - action_ask_subjects
+  - action_access_study_materials 
+  - action_access_video_lectures 
+  - action_download_materials 
+  - action_offer_sample_papers 
+  - action_suitable_for_grade_levels 
+  - action_update_frequency
+  - action_offer_quizzes_tests 
+  - action_registration_requirement 
+  - action_contact_customer_support
+  - action_provide_tips
+  - action_manage_time
+  - action_deal_with_stress
+  - action_define_peer_pressure
+  - action_default_fallback
+
+
+
+
+
+
+
+

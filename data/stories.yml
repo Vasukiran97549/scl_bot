@@ -1,0 +1,105 @@
+version: "3.1"
+
+stories:
+- story: Greet and ask subjects
+  steps:
+  - intent: greet
+  - action: action_greet
+
+- story: Greet and ask subjects
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: ask_subjects
+  - action: action_ask_subjects
+
+- story: Greet and access study materials
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: access_study_materials
+  - action: action_access_study_materials
+
+- story: Greet and access_video_lectures
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: access_video_lectures
+  - action: action_access_video_lectures
+
+- story: Greet and download_materials
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: download_materials
+  - action: action_download_materials
+
+- story: Greet and offer_sample_papers
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: offer_sample_papers
+  - action: action_offer_sample_papers
+
+- story: Greet and suitable_for_grade_levels
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: suitable_for_grade_levels
+  - action: action_suitable_for_grade_levels
+
+- story: Greet and offer_update_frequency
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: update_frequency
+  - action: action_update_frequency
+
+- story: Greet and offer_quizzes_tests
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: offer_quizzes_tests
+  - action: action_offer_quizzes_tests
+
+- story: Greet and registration_requirement
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: registration_requirement
+  - action: action_registration_requirement
+
+- story: Greet and order cold
+  steps:
+  - intent: greet
+  - action: action_greet
+  - intent: contact_customer_support
+  - action: action_contact_customer_support
+
+- story: Greet and Ask for Tips
+  steps:
+    - intent: greet
+    - action: action_greet
+    - intent: ask_tips_exam_pressure
+    - action: action_provide_tips
+
+- story: Greet and Manage Time
+  steps:
+    - intent: greet
+    - action: action_greet
+    - intent: manage_time
+    - action: action_manage_time
+
+- story: Greet and Deal with Stress
+  steps:
+    - intent: greet
+    - action: action_greet
+    - intent: deal_with_stress
+    - action: action_deal_with_stress
+
+- story: Greet and Handle Peer Pressure
+  steps:
+    - intent: greet
+    - action: action_greet
+    - intent: define_peer_pressure
+    - action: action_define_peer_pressure

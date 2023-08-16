@@ -1,0 +1,14 @@
+# version : "3.1"
+
+# rules:
+# - rule: order cold
+#   conversation_start: true
+#   steps:
+#   - intent: order_medicine
+#   - action: action_order_medicine
+
+rules:
+- rule: Fallback rule
+  steps:
+  - intent: Default_Fallback
+  - action: action_default_fallback

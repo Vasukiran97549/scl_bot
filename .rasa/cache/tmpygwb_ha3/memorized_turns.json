@@ -1,0 +1,27 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "action_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMganEZEQsAdEg04Q==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApcz8tPSUoviixNzC3JS4wsSC1KLimtrYwFq7lR7": "action_offer_sample_papers",
+    "eJyljlEKgCAQRK+yB+gEXiVCJMYQdJXV+hHvnmCfBUJ/M/DmMWttC9UkuLTZi4usqI6g2QQoeop3uYA7e2ZIZxz3WhQdApQ25xjsL8XXjWgtRGcTkodOJkHypPFtOaffbpWxeWM=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczEouz44tLk7JSk0uKa2tjASVlUZ8=": "action_ask_subjects",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczEouz44tLk7JSk0uKiTQKRQsBA2MB5dBwzw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApcz8tPSUoviC0szq6pSi+NLUotLimtrYwFtxFS8": "action_offer_quizzes_tests",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApcz8tPSUoviC0szq6pSi+NLUotLiok0EZtO4oyPBQC/t3om": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczilLTgTJFiWBFRamFpZlFqblAmdraWAAbKlbJ": "action_registration_requirement",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczilLTgTJFiWBFRamFpZlFqblAGSKNxamdBItiASOfgE0=": "action_listen",
+    "eJyljlEKgCAQRK/iATqBV4kQqykEW8Nd/RHv3kL9BkF/M/B4M2Prg2lnRnV+kZDImnYHR/6ANU+JgQWkbGFkZQJpFWv2DEj/5rjZX4q3G1yC+DnCbSnrjl/hIioi9z5dbgdW6Q==": "action_suitable_for_grade_levels",
+    "eJyljlEKgCAQRK/iATqBV4kQqykWTENXf8S7J9ivYPS3A2/e7JzLJPLtkZTemJyVIrdDWX1BijcYCgxb2RjgK0O2Rpbi9ACXMUdjfyl6b4RIrFcDdThfd/QOZZBgwqC33/8ytTxxmYCt": "action_listen",
+    "eJyljlEKgCAQBa/iATqBV4lYxB4h2Bru6o949wT7DYL+3sAwvLX1xbQro5LzGhJb0+YgdieseSAGUfBwiyAPJ/BAtebIgPZvjen+SrzdcN5DhGrYkSjCa8mQ3rcbE/pVTA==": "action_access_video_lectures",
+    "eJyljlEKgCAQRK+yB+gEXiVCxIYQTMNd/RHvnmCfBUJ/O/Dmza61LVSvhKKNFReDojoOHcwJRU/wjgWhs5mROuNCj6LoSIC0Ocdgfym+3jDWglkXtyNqDys5gSed793Zie0GeNN71g==": "action_listen",
+    "eJyljkEKgDAMBL+SB/iCfkUkSAlSsGlJUi+lfzdQr4LgbQeGYdc+FuhV6MI9WiocoM+BvGcK8MCZ1IjdbUriTmJHC3AIkY1vjen+SrzdiIXNFYxNrWQS1FZrEc9uNxp3Vtc=": "action_contact_customer_support",
+    "eJyljkEKwCAMBL+SB/QFfqUUEQlFqFFi7EX8ewP2Klh6y8LsbPbWN2iZ8bbOS0hkoI3Dkoto4A1XKIKkbC3IygTSKAZORpS+5hjsL8XsDZ9IFLG+FkkR2Zaac+JV7bT+Yeh4ACmQgHc=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczUvLL83LyE1PicxNLUosyE3OKa2tjARdnVBc=": "action_download_materials",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczUvLL83LyE1PicxNLUosyE3OKiTQQi0aiDI8FACz/eDc=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczSgtSEktS49OKUgtLU/OSK2trYwFwHVNS": "action_update_frequency",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWODMgaikyApczSgtSEktS49OKUgtLU/OSK4k0DkMbEQbHAgBjfnXo": "action_listen",
+    "eJyljtEJgDAMBVfJAE7QVURCqEEKbZQmFaR0dwv1VxD8ewfH8ebaJqhH5hPJW9jFQR0DhRI7eCAGNZbuFuXcnSAdzcGWma19awz3V+LtBnnPqqhW1gsTGedAUVtbbms+Vck=": "action_access_study_materials",
+    "eJyljtEJwCAMRFdxgE7gKqVIsKEImpYkFoq4ewX7Kwj9y8G7d1lLXUy5GG8HXsNJ1pR+OIKE1nwhBlGkxmZBbkygFtWagxG1zjk6+0sxegO8RxEnmvfHJVDkAFEmpYPy9Mj2AgGzfU0=": "action_listen"
+  }
+}
